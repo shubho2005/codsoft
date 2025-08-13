@@ -16,7 +16,7 @@ Used switch-case control structures and basic input validation.
 3. Tic Tac Toe Game
 
 2-player console game with a 3×3 grid.
-Tracks moves, checks win conditions (rows, columns, diagonals), and detects draws.
+Tracks moves, checks win, lose or draw game conditions (rows, columns, diagonals), and detects draws.
 Used arrays, loops, and condition checking for gameplay.
 
 Skills Learned:
